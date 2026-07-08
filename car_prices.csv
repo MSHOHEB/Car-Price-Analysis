@@ -1,0 +1,501 @@
+car_id,brand,model,year,fuel_type,transmission,body_type,color,engine_cc,mileage_kmpl,kms_driven,owners,seats,seller_type,condition,city,price
+1,Hyundai,i20,2019,Petrol,Manual,Hatchback,Orange,1598,20.8,7811,1,7,Dealer,Good,Mumbai,1075000
+2,Renault,Megane,2018,Petrol,Manual,Hatchback,Black,1000,11.7,40758,1,8,Certified Pre-Owned,Good,Chennai,266000
+3,Mahindra,XEV 9e,2019,CNG,Automatic,Coupe,Silver,800,21.9,94800,2,5,Individual,Excellent,Chennai,1082000
+4,Hyundai,Tucson,2016,Petrol,Automatic,SUV,Black,1598,23.1,18717,2,5,Individual,Good,Chennai,362000
+5,Kia,Carens,2023,Petrol,Manual,Hatchback,Red,1199,21.8,70186,1,8,Dealer,Fair,Kolkata,945000
+6,Volkswagen,Taigun,2019,Petrol,Automatic,Coupe,Blue,1598,18.9,104700,1,5,Certified Pre-Owned,Good,Lucknow,1227000
+7,Hyundai,Verna,2017,CNG,Manual,Hatchback,Brown,2000,23.0,138704,1,5,Individual,Good,Ahmedabad,766000
+8,Renault,Captur,2020,Petrol,Manual,MUV,White,2694,21.3,131225,2,5,Certified Pre-Owned,Fair,Chennai,556000
+9,Renault,Koleos,2018,Petrol,AMT,Coupe,Orange,2755,27.7,5105,1,8,Dealer,Good,Ahmedabad,603000
+10,Honda,City,2018,Electric,CVT,Hatchback,Green,1598,13.0,32967,1,4,Dealer,Poor,Jaipur,644000
+11,Ford,Explorer,2018,Electric,AMT,Convertible,Red,1000,14.5,114845,3,4,Certified Pre-Owned,Excellent,Pune,397000
+12,Maruti,Ignis,2023,Petrol,Manual,Hatchback,White,1248,22.0,86619,1,7,Dealer,Excellent,Mumbai,510000
+13,Tata,Avinya,2024,Diesel,AMT,MUV,Red,2694,23.1,92876,1,4,Dealer,Excellent,Kolkata,1510000
+14,Hyundai,i20,2021,Diesel,AMT,Hatchback,Red,1498,14.5,36747,1,7,Dealer,Excellent,Ahmedabad,1975000
+15,Volkswagen,Jetta,2016,Petrol,DCT,Hatchback,Silver,2755,11.1,126185,1,2,Dealer,Excellent,Ahmedabad,608000
+16,Kia,Carens,2022,Petrol,Automatic,Convertible,Orange,1999,23.2,49780,1,5,Certified Pre-Owned,Good,Bangalore,637000
+17,Mahindra,Scorpio,2015,Diesel,Automatic,Coupe,Black,2000,25.5,48712,1,5,Dealer,Poor,Delhi,394000
+18,Ford,Aspire,2024,Diesel,Automatic,MUV,Yellow,1199,14.8,53545,2,8,Certified Pre-Owned,Good,Chennai,836000
+19,Toyota,Vellfire,2020,Electric,CVT,Hatchback,Green,1197,26.8,19204,1,7,Certified Pre-Owned,Poor,Delhi,2292000
+20,Honda,CR-V,2019,Petrol,AMT,Convertible,Blue,2755,21.9,2050,2,7,Certified Pre-Owned,Poor,Jaipur,807000
+21,Tata,Altroz,2016,Electric,Automatic,Sedan,Blue,1598,18.8,53371,2,7,Individual,Good,Pune,819000
+22,Maruti,Baleno,2021,CNG,Manual,SUV,Black,1598,10.2,115824,2,2,Certified Pre-Owned,Poor,Bangalore,212000
+23,Tata,Sierra,2015,CNG,Automatic,Sedan,Brown,2000,14.5,10458,3,7,Dealer,Excellent,Pune,197000
+24,Renault,Megane,2024,Diesel,CVT,Sedan,Black,2393,26.8,47018,2,8,Dealer,Fair,Mumbai,863000
+25,Honda,Elevate,2017,CNG,Manual,Hatchback,Green,1199,10.4,91660,1,7,Dealer,Excellent,Ahmedabad,408000
+26,Mahindra,XUV300,2016,Hybrid,Manual,Convertible,Orange,2755,27.5,86808,3,5,Individual,Good,Jaipur,353000
+27,Toyota,Innova,2016,Diesel,Manual,SUV,Brown,1248,10.8,100976,3,7,Certified Pre-Owned,Poor,Delhi,605000
+28,Renault,Fluence,2018,Petrol,Manual,Convertible,Grey,1398,17.2,78727,1,2,Certified Pre-Owned,Excellent,Delhi,357000
+29,Tata,Tiago,2021,Diesel,Manual,Convertible,Black,1248,13.8,143638,3,7,Certified Pre-Owned,Good,Kolkata,1014000
+30,Ford,Bronco,2022,Petrol,Automatic,Coupe,Green,1000,24.7,74392,1,8,Certified Pre-Owned,Excellent,Delhi,2008000
+31,Toyota,Urban Cruiser,2018,Petrol,Manual,MUV,Yellow,1498,17.2,50970,2,2,Dealer,Good,Lucknow,644000
+32,Maruti,Baleno,2021,Petrol,AMT,Convertible,Orange,2000,19.6,31813,1,4,Individual,Excellent,Hyderabad,680000
+33,Mahindra,Alturas,2024,CNG,CVT,MUV,Orange,2694,21.5,117983,1,7,Individual,Fair,Ahmedabad,1501000
+34,Renault,Logan,2018,Petrol,Manual,SUV,Red,1461,22.5,21122,1,7,Individual,Excellent,Jaipur,575000
+35,Hyundai,i10,2021,Petrol,Automatic,Hatchback,Red,1498,10.1,5120,3,2,Individual,Good,Lucknow,847000
+36,Kia,Telluride,2023,Diesel,Automatic,Coupe,Red,2000,22.2,127308,1,8,Individual,Excellent,Kolkata,1097000
+37,Tata,Curvv,2017,Hybrid,Automatic,MUV,Yellow,1197,10.9,112358,1,4,Certified Pre-Owned,Good,Delhi,532000
+38,Honda,Accord,2020,Petrol,CVT,SUV,Brown,1398,14.0,5081,2,5,Individual,Fair,Ahmedabad,460000
+39,Maruti,Swift,2018,Petrol,Manual,Sedan,Red,2179,14.6,147841,3,4,Dealer,Good,Delhi,292000
+40,Ford,Puma,2016,CNG,Manual,SUV,Silver,1000,20.7,98384,1,7,Certified Pre-Owned,Excellent,Chennai,994000
+41,Honda,Amaze,2019,Electric,Automatic,Hatchback,Yellow,800,25.3,97142,1,8,Dealer,Excellent,Kolkata,1137000
+42,Hyundai,i10,2020,Diesel,AMT,Convertible,Black,1498,17.8,70800,2,4,Individual,Excellent,Jaipur,1350000
+43,Toyota,Yaris,2018,CNG,Manual,MUV,Red,1197,18.8,88184,1,8,Individual,Good,Kolkata,942000
+44,Toyota,Yaris,2019,Electric,Automatic,SUV,Orange,1498,20.0,22442,1,2,Dealer,Good,Hyderabad,1147000
+45,Volkswagen,Touareg,2022,CNG,Manual,Sedan,Brown,1461,27.9,96736,1,8,Certified Pre-Owned,Excellent,Lucknow,1336000
+46,Mahindra,Alturas,2019,Petrol,Manual,Convertible,Red,1248,23.0,48535,1,4,Individual,Excellent,Jaipur,1595000
+47,Renault,Koleos,2019,Hybrid,AMT,SUV,Red,800,20.0,140020,1,5,Individual,Excellent,Mumbai,618000
+48,Tata,Curvv,2016,Electric,Automatic,MUV,Green,1000,24.8,66185,3,4,Individual,Excellent,Mumbai,464000
+49,Hyundai,Ioniq 5,2015,Petrol,AMT,SUV,Silver,1498,26.4,59162,2,2,Dealer,Excellent,Kolkata,392000
+50,Ford,Explorer,2019,Diesel,Manual,Convertible,Silver,1598,11.4,21282,1,5,Dealer,Good,Chennai,405000
+51,Volkswagen,Golf,2022,Petrol,Manual,Convertible,Blue,1461,12.1,61190,3,7,Certified Pre-Owned,Fair,Delhi,778000
+52,Tata,Altroz,2017,Petrol,Manual,SUV,Yellow,2179,17.2,115121,1,7,Certified Pre-Owned,Fair,Chennai,369000
+53,Renault,Logan,2022,Petrol,Manual,MUV,Grey,2393,22.1,60011,4,5,Certified Pre-Owned,Excellent,Delhi,392000
+54,Maruti,Dzire,2022,Diesel,Manual,SUV,Black,1398,15.8,23918,1,2,Certified Pre-Owned,Good,Ahmedabad,426000
+55,Tata,Punch,2021,Diesel,Manual,MUV,Orange,2694,19.3,66164,1,2,Dealer,Good,Pune,1535000
+56,Renault,Logan,2021,Petrol,Automatic,Coupe,Green,2755,15.2,53361,1,5,Certified Pre-Owned,Good,Mumbai,826000
+57,Volkswagen,Vento,2015,Hybrid,Automatic,Sedan,Black,1498,27.0,106952,1,5,Individual,Good,Jaipur,704000
+58,Tata,Curvv,2019,Diesel,Manual,MUV,Green,2694,11.3,100554,1,5,Dealer,Good,Bangalore,1018000
+59,Kia,Sportage,2023,Petrol,Manual,Convertible,Blue,1398,16.0,38953,1,4,Certified Pre-Owned,Good,Ahmedabad,1512000
+60,Kia,Stinger,2020,Electric,DCT,Sedan,Yellow,2179,26.4,11441,1,4,Individual,Excellent,Kolkata,1028000
+61,Tata,Curvv,2015,Petrol,DCT,SUV,Silver,2694,21.8,4023,2,2,Individual,Excellent,Ahmedabad,260000
+62,Volkswagen,Tiguan,2020,Diesel,Manual,Hatchback,Grey,2694,19.7,83010,2,4,Certified Pre-Owned,Fair,Kolkata,1084000
+63,Honda,Elevate,2018,Diesel,Manual,Hatchback,Silver,1248,16.5,7588,1,5,Individual,Excellent,Chennai,745000
+64,Honda,BR-V,2021,Diesel,AMT,Sedan,Black,1199,18.3,63132,1,5,Dealer,Good,Kolkata,761000
+65,Toyota,Innova,2022,Electric,Automatic,Sedan,Silver,2179,14.5,78421,2,2,Individual,Poor,Lucknow,2292000
+66,Honda,HR-V,2022,Petrol,Manual,SUV,Yellow,1248,10.1,5751,4,2,Individual,Poor,Chennai,826000
+67,Maruti,Ignis,2022,CNG,CVT,Sedan,Yellow,2000,11.7,65700,2,5,Individual,Excellent,Hyderabad,644000
+68,Maruti,Wagon R,2022,Petrol,Manual,Sedan,Silver,1598,19.0,46042,1,8,Individual,Excellent,Kolkata,532000
+69,Tata,Altroz,2022,Hybrid,Manual,SUV,Silver,2694,24.5,59143,3,2,Individual,Poor,Bangalore,619000
+70,Kia,Seltos,2019,Diesel,Automatic,Convertible,Blue,800,21.2,28402,2,4,Certified Pre-Owned,Good,Pune,1175000
+71,Mahindra,XEV 9e,2018,Diesel,Automatic,MUV,Blue,1498,12.1,11887,3,7,Certified Pre-Owned,Good,Bangalore,535000
+72,Renault,Kiger,2021,Diesel,Automatic,Convertible,Orange,1999,17.3,108759,2,4,Individual,Good,Bangalore,790000
+73,Maruti,Brezza,2018,Petrol,DCT,SUV,Silver,1000,27.1,15872,1,7,Certified Pre-Owned,Good,Pune,605000
+74,Hyundai,Tucson,2024,Hybrid,Manual,SUV,Red,1999,13.9,17985,2,7,Dealer,Fair,Hyderabad,2015000
+75,Mahindra,Thar,2024,Petrol,AMT,Sedan,Black,1197,10.3,28816,2,5,Certified Pre-Owned,Excellent,Bangalore,1971000
+76,Honda,Mobilio,2020,Petrol,Manual,Sedan,Brown,1598,20.7,124845,1,8,Certified Pre-Owned,Excellent,Delhi,792000
+77,Honda,Mobilio,2015,Diesel,CVT,Convertible,Orange,1461,22.3,15945,4,2,Individual,Good,Mumbai,355000
+78,Volkswagen,Vento,2016,Petrol,Manual,Sedan,Blue,1498,19.1,85245,1,7,Certified Pre-Owned,Good,Jaipur,639000
+79,Hyundai,Exter,2018,Petrol,CVT,MUV,Grey,1398,27.2,81932,1,7,Individual,Good,Delhi,1014000
+80,Volkswagen,Vento,2016,CNG,Manual,Hatchback,Grey,1461,16.4,147216,2,5,Dealer,Good,Lucknow,624000
+81,Kia,Seltos,2019,Diesel,Manual,Coupe,Orange,2694,20.0,58784,3,8,Dealer,Excellent,Ahmedabad,487000
+82,Toyota,Land Cruiser,2018,CNG,AMT,Coupe,Yellow,2179,23.7,70109,1,7,Certified Pre-Owned,Good,Mumbai,1860000
+83,Mahindra,Scorpio,2017,Electric,Automatic,MUV,Silver,1461,17.6,24053,2,7,Dealer,Good,Mumbai,657000
+84,Mahindra,XUV300,2020,CNG,Automatic,Hatchback,White,1498,21.9,13044,2,7,Dealer,Excellent,Lucknow,962000
+85,Volkswagen,Passat,2019,Petrol,Automatic,SUV,Brown,800,14.0,127567,1,7,Dealer,Excellent,Lucknow,1474000
+86,Maruti,Swift,2018,Petrol,Manual,Sedan,Blue,1197,16.8,130386,2,5,Individual,Excellent,Mumbai,469000
+87,Renault,Fluence,2020,Petrol,AMT,Hatchback,Brown,2179,21.5,82066,2,2,Dealer,Good,Delhi,384000
+88,Kia,Seltos,2020,Petrol,CVT,MUV,Grey,1598,11.4,63783,1,2,Dealer,Good,Delhi,1235000
+89,Mahindra,Bolero,2020,CNG,Manual,Convertible,Silver,1199,11.9,92038,2,5,Certified Pre-Owned,Good,Pune,601000
+90,Tata,Avinya,2017,CNG,Automatic,Sedan,Green,2694,27.5,117677,2,8,Individual,Fair,Lucknow,334000
+91,Volkswagen,Vento,2022,Petrol,Manual,SUV,Yellow,800,16.6,81371,1,5,Dealer,Good,Delhi,1074000
+92,Hyundai,Ioniq 5,2024,Diesel,Automatic,Coupe,White,1598,12.7,49345,1,4,Individual,Fair,Lucknow,645000
+93,Hyundai,Aura,2016,Diesel,Manual,Sedan,Green,1461,17.4,41614,1,7,Individual,Good,Lucknow,550000
+94,Ford,EcoSport,2020,Petrol,Manual,Convertible,Brown,2755,16.3,39419,1,5,Individual,Excellent,Lucknow,2122000
+95,Kia,Carnival,2024,Diesel,Manual,Coupe,Brown,1598,16.5,137990,1,2,Certified Pre-Owned,Fair,Bangalore,954000
+96,Tata,Tiago,2020,Hybrid,Automatic,Sedan,Black,2000,16.1,133087,2,5,Dealer,Excellent,Delhi,1094000
+97,Tata,Avinya,2021,Petrol,Manual,Convertible,Yellow,1498,21.0,107704,1,7,Dealer,Good,Mumbai,1148000
+98,Volkswagen,Virtus,2023,Petrol,DCT,MUV,Red,2393,16.9,115499,1,7,Individual,Good,Lucknow,1435000
+99,Tata,Tiago,2024,Petrol,Manual,Convertible,Green,1000,23.7,135242,3,7,Individual,Good,Delhi,668000
+100,Renault,Kiger,2021,Petrol,CVT,MUV,Grey,1000,16.7,131598,1,2,Dealer,Good,Kolkata,290000
+101,Hyundai,Aura,2017,Petrol,Manual,MUV,Black,1248,13.9,1376,3,5,Certified Pre-Owned,Good,Lucknow,383000
+102,Ford,Escape,2021,Petrol,Manual,SUV,Silver,1999,19.6,119829,1,4,Dealer,Excellent,Lucknow,1545000
+103,Ford,Aspire,2017,Petrol,Manual,SUV,Red,1598,19.8,137228,4,5,Certified Pre-Owned,Good,Delhi,821000
+104,Renault,Fluence,2015,Petrol,Automatic,Convertible,Brown,1199,23.2,93610,2,8,Individual,Excellent,Mumbai,292000
+105,Ford,Bronco,2017,Petrol,Automatic,Convertible,Black,2179,24.0,47783,2,5,Certified Pre-Owned,Good,Ahmedabad,759000
+106,Toyota,Urban Cruiser,2015,CNG,CVT,SUV,Blue,1248,16.4,124098,1,7,Certified Pre-Owned,Good,Jaipur,984000
+107,Mahindra,XUV300,2016,CNG,Manual,MUV,Green,2755,24.4,130076,2,8,Individual,Excellent,Bangalore,376000
+108,Hyundai,i10,2016,Petrol,DCT,Sedan,Orange,1498,20.8,85962,2,7,Individual,Excellent,Delhi,548000
+109,Volkswagen,T-Roc,2022,Petrol,CVT,SUV,Yellow,1398,19.2,19671,2,2,Individual,Excellent,Mumbai,1710000
+110,Tata,Nexon,2017,CNG,Automatic,MUV,White,1999,12.8,94935,1,5,Dealer,Excellent,Pune,524000
+111,Mahindra,KUV100,2022,CNG,Automatic,Coupe,Grey,2179,13.3,65434,4,5,Individual,Excellent,Chennai,922000
+112,Renault,Triber,2019,CNG,Automatic,Sedan,Yellow,1498,13.1,52475,1,5,Individual,Good,Ahmedabad,550000
+113,Hyundai,Aura,2020,Diesel,Automatic,SUV,Blue,1199,24.3,94763,1,5,Dealer,Good,Bangalore,718000
+114,Volkswagen,Polo,2020,Diesel,Manual,Coupe,Black,1598,17.4,81078,1,4,Certified Pre-Owned,Fair,Delhi,972000
+115,Ford,Endeavour,2017,Hybrid,Automatic,MUV,Green,2393,27.4,144520,2,5,Certified Pre-Owned,Good,Bangalore,723000
+116,Maruti,Baleno,2023,Petrol,Manual,SUV,Red,1199,21.4,74461,3,7,Individual,Poor,Jaipur,480000
+117,Tata,Altroz,2024,Diesel,Automatic,Sedan,Yellow,2694,25.5,88504,3,5,Certified Pre-Owned,Excellent,Lucknow,531000
+118,Ford,Mustang,2018,CNG,Manual,Convertible,White,1498,14.4,75935,2,7,Individual,Fair,Jaipur,1036000
+119,Kia,Carens,2022,Petrol,Manual,MUV,Brown,2179,27.8,37661,1,8,Individual,Good,Pune,951000
+120,Kia,Carnival,2020,Diesel,Manual,Sedan,Green,1461,25.6,36930,1,7,Dealer,Excellent,Hyderabad,951000
+121,Tata,Punch,2024,Diesel,Manual,Sedan,Green,1598,18.2,130382,1,2,Certified Pre-Owned,Good,Chennai,786000
+122,Ford,Bronco,2015,Petrol,Automatic,Convertible,Green,2179,16.6,112965,1,7,Individual,Good,Delhi,515000
+123,Maruti,Ertiga,2015,Diesel,Manual,Coupe,Blue,1197,27.6,144141,1,5,Dealer,Good,Ahmedabad,238000
+124,Mahindra,BE 6e,2020,CNG,Manual,Coupe,Brown,1598,18.2,35923,2,4,Certified Pre-Owned,Excellent,Mumbai,1081000
+125,Renault,Kiger,2020,Hybrid,Manual,MUV,Yellow,2179,20.1,88178,1,4,Certified Pre-Owned,Fair,Lucknow,507000
+126,Maruti,Brezza,2020,Diesel,DCT,Coupe,Blue,2179,10.9,124410,1,7,Certified Pre-Owned,Fair,Mumbai,467000
+127,Renault,Koleos,2021,Petrol,Automatic,Hatchback,Yellow,1461,22.4,115615,1,5,Certified Pre-Owned,Excellent,Mumbai,534000
+128,Ford,Edge,2015,Diesel,Automatic,Coupe,Grey,2755,19.6,82248,4,4,Certified Pre-Owned,Good,Kolkata,511000
+129,Toyota,Land Cruiser,2022,Petrol,Manual,Coupe,Blue,1398,18.6,75760,2,4,Dealer,Poor,Chennai,1479000
+130,Toyota,Camry,2016,Diesel,Automatic,MUV,Grey,2000,14.6,20717,1,4,Dealer,Excellent,Chennai,1108000
+131,Honda,BR-V,2019,Hybrid,Automatic,Sedan,Silver,2000,14.2,63558,1,7,Certified Pre-Owned,Good,Hyderabad,542000
+132,Mahindra,Alturas,2016,Diesel,Manual,Coupe,Black,1398,15.1,125160,2,7,Individual,Good,Ahmedabad,265000
+133,Hyundai,Ioniq 5,2018,Diesel,Automatic,Hatchback,Black,2393,18.9,9526,4,2,Individual,Fair,Bangalore,969000
+134,Toyota,Innova,2015,Petrol,Automatic,SUV,Blue,2694,19.1,137446,1,5,Individual,Poor,Jaipur,416000
+135,Hyundai,Aura,2017,Diesel,Automatic,Convertible,Black,1197,21.0,148840,2,7,Dealer,Good,Chennai,760000
+136,Kia,Telluride,2023,Petrol,Manual,Hatchback,Black,1498,23.6,1790,1,7,Dealer,Good,Hyderabad,1801000
+137,Toyota,Land Cruiser,2024,Petrol,Automatic,Convertible,Red,2179,12.1,80427,1,7,Dealer,Good,Ahmedabad,3431000
+138,Toyota,Yaris,2024,Petrol,DCT,MUV,Black,2393,19.7,97943,1,4,Individual,Good,Lucknow,2639000
+139,Honda,WR-V,2024,Electric,Manual,MUV,Orange,1999,19.7,29414,1,7,Certified Pre-Owned,Good,Lucknow,983000
+140,Renault,Logan,2016,Diesel,Automatic,MUV,Silver,1498,20.2,118864,1,2,Certified Pre-Owned,Good,Mumbai,345000
+141,Toyota,Innova,2021,Petrol,Manual,Sedan,Yellow,2755,26.1,16714,1,5,Dealer,Excellent,Pune,3226000
+142,Volkswagen,Polo,2019,Petrol,AMT,Convertible,Brown,1461,11.4,117581,3,2,Individual,Poor,Kolkata,929000
+143,Renault,Kiger,2020,Petrol,DCT,MUV,Orange,1498,22.1,910,2,7,Dealer,Good,Hyderabad,553000
+144,Renault,Megane,2018,Petrol,Manual,SUV,Red,1199,13.7,109901,2,5,Certified Pre-Owned,Fair,Mumbai,205000
+145,Maruti,Ciaz,2024,Diesel,CVT,Sedan,White,1197,19.1,56955,2,5,Individual,Good,Jaipur,575000
+146,Ford,Bronco,2024,Diesel,Automatic,SUV,Red,800,20.0,57945,1,7,Individual,Fair,Jaipur,1798000
+147,Tata,Tigor,2023,Diesel,DCT,Convertible,Brown,1197,23.6,107022,1,2,Certified Pre-Owned,Excellent,Kolkata,1108000
+148,Honda,Elevate,2017,CNG,CVT,Coupe,Brown,1398,21.6,101821,1,7,Individual,Good,Bangalore,723000
+149,Mahindra,XUV700,2023,Diesel,Manual,SUV,Brown,1498,13.8,19079,1,7,Certified Pre-Owned,Good,Mumbai,2225000
+150,Toyota,Innova,2018,Hybrid,DCT,Hatchback,Green,2393,15.1,103974,3,8,Dealer,Good,Hyderabad,1114000
+151,Mahindra,XUV300,2019,Petrol,CVT,MUV,Silver,800,20.1,53248,1,2,Certified Pre-Owned,Good,Pune,628000
+152,Tata,Nexon,2019,Diesel,Automatic,Convertible,Brown,1498,19.9,60298,1,7,Individual,Excellent,Pune,1290000
+153,Mahindra,XUV300,2022,Hybrid,Automatic,MUV,Green,1197,26.5,44371,1,4,Dealer,Good,Pune,1474000
+154,Maruti,S-Cross,2015,CNG,Manual,Convertible,White,1199,19.1,17817,2,5,Dealer,Good,Hyderabad,215000
+155,Ford,Puma,2022,Diesel,Manual,Coupe,Orange,800,19.0,72021,1,7,Individual,Excellent,Jaipur,2002000
+156,Kia,Carnival,2016,Electric,Automatic,Sedan,Red,1398,27.3,70077,2,5,Certified Pre-Owned,Good,Pune,561000
+157,Honda,WR-V,2019,Diesel,AMT,Convertible,White,2179,13.1,144887,1,5,Dealer,Good,Kolkata,729000
+158,Kia,Sportage,2024,Hybrid,DCT,Coupe,White,2000,26.7,124649,1,5,Dealer,Excellent,Lucknow,1890000
+159,Ford,EcoSport,2017,Electric,Manual,Sedan,Yellow,1999,25.0,20168,1,7,Dealer,Fair,Kolkata,793000
+160,Renault,Zoe,2021,CNG,Manual,Convertible,Silver,2694,11.4,14076,1,7,Certified Pre-Owned,Good,Pune,634000
+161,Ford,Puma,2021,Hybrid,Manual,Convertible,Blue,1197,22.2,144975,3,2,Individual,Good,Pune,1380000
+162,Hyundai,Ioniq 5,2019,CNG,Automatic,Hatchback,Blue,1000,10.1,102137,1,5,Dealer,Good,Bangalore,637000
+163,Mahindra,XUV300,2016,Petrol,Manual,MUV,Orange,1999,20.8,6884,1,5,Certified Pre-Owned,Good,Delhi,532000
+164,Kia,Seltos,2019,Petrol,AMT,Convertible,Orange,1248,14.8,99806,1,7,Dealer,Good,Bangalore,521000
+165,Tata,Tigor,2019,Petrol,Automatic,Hatchback,Grey,1248,10.1,51261,1,5,Individual,Poor,Ahmedabad,526000
+166,Ford,Explorer,2020,Petrol,Manual,Convertible,Yellow,1461,27.4,52652,1,5,Dealer,Excellent,Lucknow,931000
+167,Volkswagen,Golf,2018,Petrol,Manual,MUV,Grey,2179,18.3,143033,1,5,Dealer,Poor,Hyderabad,788000
+168,Volkswagen,Tiguan,2016,CNG,AMT,MUV,Green,2393,16.8,66238,2,2,Dealer,Good,Hyderabad,563000
+169,Ford,Edge,2024,Petrol,Automatic,Convertible,Brown,1000,23.8,140746,2,5,Certified Pre-Owned,Excellent,Pune,1808000
+170,Mahindra,Thar,2024,Petrol,DCT,Convertible,Brown,1199,19.2,27772,1,7,Individual,Poor,Kolkata,1203000
+171,Ford,Puma,2018,Petrol,Manual,Convertible,Yellow,1461,26.6,6438,1,7,Certified Pre-Owned,Good,Pune,465000
+172,Tata,Punch,2019,Petrol,AMT,Coupe,Green,800,24.6,118606,1,7,Individual,Good,Ahmedabad,385000
+173,Mahindra,XUV700,2017,Electric,Automatic,Coupe,Black,2393,17.3,111770,4,7,Certified Pre-Owned,Excellent,Jaipur,390000
+174,Kia,Telluride,2015,Diesel,CVT,MUV,Yellow,1999,11.8,53945,1,5,Individual,Good,Hyderabad,674000
+175,Tata,Punch,2020,Petrol,Manual,Convertible,Green,1398,16.3,101879,2,5,Certified Pre-Owned,Poor,Pune,551000
+176,Tata,Altroz,2024,Diesel,Automatic,SUV,Silver,1461,20.7,97859,2,2,Dealer,Excellent,Bangalore,1246000
+177,Kia,Carnival,2022,Diesel,Automatic,Convertible,Black,1999,11.0,36777,1,4,Certified Pre-Owned,Excellent,Chennai,1066000
+178,Maruti,Ciaz,2017,Petrol,Manual,Coupe,Orange,1498,13.0,108955,2,4,Certified Pre-Owned,Good,Ahmedabad,356000
+179,Honda,Elevate,2015,Petrol,Automatic,Sedan,Green,1248,24.0,144107,1,5,Certified Pre-Owned,Good,Ahmedabad,508000
+180,Mahindra,BE 6e,2015,CNG,Manual,Sedan,Brown,1498,14.7,78042,3,5,Dealer,Good,Hyderabad,597000
+181,Hyundai,Alcazar,2016,CNG,Manual,Convertible,Yellow,2393,13.7,112241,1,5,Certified Pre-Owned,Good,Lucknow,357000
+182,Maruti,Ignis,2020,Diesel,Automatic,Sedan,Grey,1197,27.3,70082,4,5,Certified Pre-Owned,Excellent,Lucknow,569000
+183,Maruti,Wagon R,2017,Diesel,Manual,Sedan,Grey,2000,17.5,128308,1,7,Dealer,Fair,Kolkata,320000
+184,Hyundai,i10,2023,Diesel,Automatic,SUV,Green,2000,22.0,24416,2,4,Individual,Excellent,Mumbai,1179000
+185,Hyundai,Exter,2021,Petrol,Manual,Sedan,Green,1999,25.3,88540,1,5,Individual,Excellent,Chennai,1586000
+186,Maruti,Swift,2016,Diesel,AMT,Hatchback,Silver,2755,21.7,112145,1,5,Dealer,Good,Mumbai,216000
+187,Toyota,Fortuner,2020,Petrol,Manual,Convertible,Black,2179,11.7,61379,1,5,Dealer,Good,Chennai,1002000
+188,Hyundai,Verna,2024,Petrol,Automatic,Hatchback,White,1000,14.1,110707,2,4,Certified Pre-Owned,Excellent,Delhi,661000
+189,Hyundai,Creta,2020,Petrol,Manual,MUV,Black,1999,21.7,17933,1,5,Certified Pre-Owned,Poor,Bangalore,792000
+190,Honda,Jazz,2021,Diesel,Manual,Sedan,Silver,1398,24.2,100671,1,2,Dealer,Excellent,Delhi,762000
+191,Hyundai,Tucson,2023,Diesel,Automatic,SUV,White,2179,17.1,135724,2,7,Certified Pre-Owned,Fair,Hyderabad,1277000
+192,Honda,Accord,2021,Petrol,Automatic,Coupe,Silver,1461,25.5,94659,3,5,Certified Pre-Owned,Fair,Mumbai,725000
+193,Mahindra,BE 6e,2017,CNG,DCT,Hatchback,White,2393,17.2,56555,1,5,Certified Pre-Owned,Excellent,Chennai,532000
+194,Renault,Megane,2021,Diesel,Manual,Coupe,Orange,2393,12.8,81240,1,7,Certified Pre-Owned,Excellent,Delhi,529000
+195,Ford,Endeavour,2019,Diesel,Automatic,Sedan,White,1248,22.0,30405,1,5,Dealer,Excellent,Kolkata,1514000
+196,Tata,Harrier,2015,Diesel,Automatic,Sedan,Green,2179,26.0,43768,1,7,Individual,Good,Chennai,616000
+197,Maruti,Brezza,2021,Petrol,Manual,Convertible,Yellow,2694,20.2,133898,1,4,Certified Pre-Owned,Excellent,Ahmedabad,499000
+198,Toyota,Fortuner,2024,Diesel,Manual,Convertible,Orange,1461,26.6,64107,1,8,Dealer,Excellent,Mumbai,1416000
+199,Maruti,S-Cross,2021,Petrol,Manual,Convertible,Grey,1197,14.0,97729,1,5,Individual,Fair,Lucknow,521000
+200,Maruti,Ertiga,2016,Electric,AMT,SUV,Grey,2179,21.2,96709,1,7,Dealer,Good,Mumbai,352000
+201,Ford,Edge,2018,Diesel,Automatic,Sedan,Black,1398,10.0,61078,1,5,Dealer,Poor,Mumbai,971000
+202,Toyota,Fortuner,2018,Diesel,Manual,MUV,White,2179,26.1,11508,3,2,Dealer,Good,Delhi,1160000
+203,Hyundai,Ioniq 5,2016,Diesel,Automatic,MUV,Silver,2694,15.7,34264,1,7,Certified Pre-Owned,Good,Kolkata,947000
+204,Mahindra,KUV100,2022,Petrol,Manual,Sedan,Black,1461,12.2,43089,1,8,Certified Pre-Owned,Excellent,Delhi,1107000
+205,Honda,Accord,2019,Diesel,AMT,Hatchback,Black,1197,11.6,10572,1,8,Certified Pre-Owned,Excellent,Lucknow,690000
+206,Mahindra,Marazzo,2023,Petrol,Manual,Sedan,White,1000,24.5,144210,1,4,Individual,Fair,Jaipur,620000
+207,Maruti,Swift,2018,Petrol,AMT,SUV,Silver,2755,21.6,5714,4,7,Certified Pre-Owned,Good,Delhi,453000
+208,Hyundai,Aura,2016,Petrol,Automatic,Sedan,Yellow,1197,16.4,130056,1,2,Individual,Fair,Kolkata,801000
+209,Toyota,Camry,2022,Electric,Manual,Coupe,Yellow,800,11.6,108001,3,4,Dealer,Good,Ahmedabad,1519000
+210,Kia,EV6,2023,Petrol,DCT,Coupe,White,1398,26.4,125746,1,4,Individual,Fair,Pune,990000
+211,Kia,Carens,2017,Petrol,Automatic,Hatchback,Blue,1197,11.8,138787,1,7,Dealer,Fair,Ahmedabad,614000
+212,Toyota,Corolla,2015,CNG,CVT,Coupe,Brown,2393,23.3,46163,1,8,Individual,Poor,Bangalore,493000
+213,Ford,EcoSport,2020,Hybrid,Automatic,Coupe,Red,1199,20.8,128564,1,5,Individual,Good,Bangalore,447000
+214,Volkswagen,Polo,2020,Electric,Manual,Sedan,Grey,2393,12.0,15612,1,5,Certified Pre-Owned,Excellent,Pune,1491000
+215,Mahindra,XUV700,2020,Diesel,Automatic,Coupe,Silver,2393,21.5,41288,2,2,Individual,Excellent,Bangalore,1068000
+216,Mahindra,Thar,2023,Diesel,CVT,SUV,Red,1197,13.2,99191,1,7,Certified Pre-Owned,Good,Bangalore,531000
+217,Ford,Explorer,2024,Petrol,Automatic,Coupe,Red,1199,16.2,36868,1,5,Certified Pre-Owned,Good,Ahmedabad,1316000
+218,Hyundai,Aura,2022,Petrol,Manual,Convertible,Silver,2179,17.6,335,1,4,Individual,Excellent,Delhi,827000
+219,Kia,Stinger,2021,Petrol,Manual,MUV,Yellow,1248,10.4,42639,1,5,Certified Pre-Owned,Fair,Hyderabad,708000
+220,Hyundai,Creta,2020,Petrol,Manual,Convertible,Silver,2179,10.6,88591,2,4,Certified Pre-Owned,Poor,Delhi,1126000
+221,Tata,Avinya,2021,Petrol,Manual,Sedan,Red,1199,11.7,69537,2,7,Individual,Good,Jaipur,737000
+222,Renault,Logan,2017,Petrol,Manual,Hatchback,Blue,1197,21.5,52343,1,7,Certified Pre-Owned,Good,Ahmedabad,571000
+223,Volkswagen,Vento,2019,CNG,Automatic,Convertible,Blue,1398,13.4,48465,1,2,Dealer,Good,Kolkata,553000
+224,Volkswagen,Touareg,2019,Petrol,Manual,Hatchback,Black,2393,20.6,90122,2,2,Certified Pre-Owned,Good,Delhi,972000
+225,Kia,Niro,2021,Hybrid,Automatic,MUV,Yellow,1598,20.3,103495,3,5,Dealer,Good,Delhi,908000
+226,Ford,Puma,2017,Petrol,AMT,Sedan,Black,1199,28.0,11187,1,2,Dealer,Fair,Bangalore,956000
+227,Ford,Mustang,2020,Electric,CVT,Hatchback,Silver,2755,25.7,85492,3,4,Individual,Good,Jaipur,1601000
+228,Ford,Puma,2023,CNG,Manual,Sedan,Black,2393,15.1,27691,2,5,Certified Pre-Owned,Good,Delhi,1443000
+229,Mahindra,Marazzo,2019,Petrol,Automatic,Coupe,Green,800,17.1,37710,2,2,Dealer,Excellent,Kolkata,1372000
+230,Honda,City,2022,Electric,CVT,Hatchback,Grey,1197,15.4,25747,4,7,Individual,Excellent,Ahmedabad,1152000
+231,Mahindra,XUV300,2021,Diesel,Manual,MUV,Red,1000,15.6,98018,2,5,Individual,Good,Jaipur,1076000
+232,Tata,Sierra,2024,Petrol,Manual,Sedan,White,1398,24.8,94470,2,7,Dealer,Excellent,Mumbai,1100000
+233,Hyundai,i20,2018,Petrol,Automatic,Sedan,Green,2179,25.0,42864,3,7,Certified Pre-Owned,Good,Pune,364000
+234,Maruti,Ertiga,2015,Petrol,Automatic,Sedan,Red,2694,24.0,70538,2,5,Certified Pre-Owned,Excellent,Hyderabad,337000
+235,Maruti,Ciaz,2017,Diesel,Automatic,Hatchback,Red,2694,16.3,72188,1,2,Individual,Good,Chennai,299000
+236,Volkswagen,Tiguan,2023,CNG,Manual,Hatchback,White,1248,22.3,147182,2,7,Certified Pre-Owned,Poor,Pune,875000
+237,Mahindra,XUV300,2020,Electric,Manual,Convertible,Blue,2000,15.8,14883,2,2,Dealer,Excellent,Hyderabad,682000
+238,Maruti,Ciaz,2019,Petrol,Manual,MUV,White,2000,19.6,49785,1,7,Certified Pre-Owned,Good,Lucknow,635000
+239,Mahindra,BE 6e,2019,CNG,AMT,Coupe,Black,2000,26.2,67804,2,5,Individual,Excellent,Bangalore,993000
+240,Honda,CR-V,2018,Diesel,Manual,SUV,Grey,1498,26.0,30875,1,5,Individual,Good,Ahmedabad,738000
+241,Kia,Niro,2019,Petrol,CVT,Sedan,Black,2393,11.5,119949,1,5,Dealer,Excellent,Lucknow,680000
+242,Tata,Punch,2015,Petrol,Manual,Sedan,Yellow,1461,17.7,33922,2,2,Dealer,Good,Delhi,400000
+243,Maruti,Swift,2023,Petrol,Manual,Hatchback,Grey,1248,12.3,65227,1,8,Certified Pre-Owned,Excellent,Mumbai,645000
+244,Ford,Mustang,2017,Petrol,Manual,SUV,Green,1398,27.9,88561,1,5,Certified Pre-Owned,Good,Jaipur,826000
+245,Honda,Jazz,2021,Petrol,Manual,Sedan,Red,1461,25.8,44298,1,5,Certified Pre-Owned,Excellent,Jaipur,778000
+246,Renault,Koleos,2015,Diesel,Manual,Hatchback,White,1498,22.6,116474,1,7,Dealer,Good,Kolkata,194000
+247,Maruti,Wagon R,2021,Diesel,Automatic,SUV,Yellow,1248,12.1,27502,1,5,Certified Pre-Owned,Good,Kolkata,391000
+248,Honda,Mobilio,2018,CNG,AMT,Sedan,Grey,2179,26.8,10329,1,7,Certified Pre-Owned,Good,Bangalore,562000
+249,Maruti,Swift,2016,Electric,AMT,Convertible,Green,2755,14.6,19673,2,5,Dealer,Poor,Jaipur,208000
+250,Toyota,Camry,2022,Petrol,AMT,Hatchback,Blue,2694,23.6,111672,2,5,Individual,Fair,Pune,599000
+251,Tata,Safari,2020,Petrol,Manual,Coupe,Blue,1498,14.9,47938,1,2,Certified Pre-Owned,Excellent,Pune,776000
+252,Volkswagen,Passat,2017,Petrol,Automatic,Hatchback,Black,1197,21.0,126530,2,4,Dealer,Good,Lucknow,880000
+253,Ford,EcoSport,2017,Diesel,Automatic,MUV,Green,2000,25.7,3240,2,7,Dealer,Excellent,Pune,952000
+254,Ford,Endeavour,2021,Diesel,Manual,SUV,Brown,1598,25.3,14304,1,5,Dealer,Fair,Jaipur,1946000
+255,Tata,Harrier,2022,Petrol,Manual,SUV,White,1498,18.0,105716,2,5,Certified Pre-Owned,Excellent,Kolkata,1010000
+256,Hyundai,Alcazar,2022,Petrol,DCT,Convertible,White,2393,20.9,146048,1,5,Dealer,Good,Mumbai,1304000
+257,Toyota,Corolla,2023,Petrol,Automatic,SUV,Grey,2179,21.8,87024,2,4,Dealer,Fair,Ahmedabad,2173000
+258,Hyundai,Creta,2018,Petrol,Manual,Convertible,Blue,1197,24.8,12000,3,4,Certified Pre-Owned,Good,Delhi,979000
+259,Kia,Sonet,2019,Diesel,Manual,MUV,Red,800,26.7,88587,1,2,Individual,Fair,Hyderabad,1001000
+260,Ford,Endeavour,2022,Diesel,Automatic,Coupe,Black,2755,19.1,145024,3,4,Individual,Excellent,Mumbai,1937000
+261,Tata,Avinya,2017,Diesel,Manual,MUV,Yellow,1248,17.2,100837,1,7,Certified Pre-Owned,Fair,Jaipur,440000
+262,Toyota,Vellfire,2017,Petrol,Automatic,Convertible,Orange,1199,13.8,82289,2,7,Individual,Fair,Jaipur,1196000
+263,Mahindra,Thar,2017,Diesel,Automatic,SUV,Silver,2000,23.5,149589,3,2,Individual,Good,Lucknow,851000
+264,Toyota,Hilux,2015,Diesel,Manual,Sedan,White,1197,25.1,42188,4,7,Certified Pre-Owned,Excellent,Chennai,882000
+265,Toyota,Urban Cruiser,2023,Petrol,AMT,Hatchback,Yellow,2179,22.0,147133,1,7,Certified Pre-Owned,Good,Hyderabad,2986000
+266,Kia,Telluride,2020,Hybrid,Manual,Convertible,Blue,2393,20.6,59126,3,8,Dealer,Good,Ahmedabad,1051000
+267,Honda,WR-V,2019,Petrol,DCT,Hatchback,Black,1598,14.8,98880,1,7,Dealer,Good,Delhi,514000
+268,Toyota,Innova,2020,Diesel,CVT,Hatchback,Black,1000,24.1,78945,1,8,Individual,Good,Lucknow,1265000
+269,Honda,Jazz,2023,Petrol,Automatic,MUV,Orange,1398,16.5,57985,3,8,Certified Pre-Owned,Good,Pune,700000
+270,Ford,Escape,2022,Hybrid,AMT,Convertible,White,800,22.3,63005,3,7,Dealer,Good,Ahmedabad,1032000
+271,Hyundai,i10,2019,Diesel,Manual,Coupe,Grey,1398,19.3,127612,1,7,Certified Pre-Owned,Fair,Ahmedabad,1287000
+272,Tata,Sierra,2023,Petrol,Manual,Convertible,Red,2000,24.7,53891,1,2,Certified Pre-Owned,Good,Delhi,535000
+273,Tata,Nexon,2022,Diesel,Manual,Hatchback,White,2755,14.7,18465,2,7,Dealer,Fair,Jaipur,794000
+274,Kia,Telluride,2020,Petrol,Automatic,Coupe,White,1398,26.7,11931,2,5,Certified Pre-Owned,Good,Delhi,548000
+275,Toyota,Land Cruiser,2016,Petrol,CVT,MUV,Brown,2393,24.4,139845,1,2,Certified Pre-Owned,Excellent,Bangalore,1012000
+276,Tata,Altroz,2020,Hybrid,Manual,Coupe,Black,1248,13.8,103306,1,5,Dealer,Excellent,Lucknow,1202000
+277,Mahindra,Bolero,2021,Electric,AMT,Sedan,Black,2694,23.5,50941,1,5,Dealer,Excellent,Chennai,2246000
+278,Renault,Logan,2023,Petrol,Automatic,SUV,Silver,1000,15.1,86730,1,7,Dealer,Good,Ahmedabad,387000
+279,Honda,CR-V,2022,Diesel,Automatic,SUV,Yellow,800,15.6,82924,4,5,Dealer,Good,Pune,972000
+280,Kia,Carens,2020,Petrol,Automatic,MUV,Green,2000,20.9,127656,2,5,Individual,Good,Chennai,1037000
+281,Tata,Sierra,2018,Petrol,CVT,Hatchback,Silver,2755,10.7,106203,2,7,Dealer,Fair,Mumbai,382000
+282,Renault,Logan,2017,Petrol,Manual,Coupe,Blue,2000,14.3,23738,1,5,Dealer,Good,Jaipur,583000
+283,Ford,Figo,2023,Petrol,Manual,Coupe,Yellow,1199,23.7,126747,3,5,Certified Pre-Owned,Fair,Bangalore,718000
+284,Toyota,Yaris,2018,Petrol,Manual,SUV,Brown,1000,22.7,10460,4,8,Individual,Fair,Mumbai,956000
+285,Toyota,Camry,2024,Diesel,Manual,Convertible,Brown,1598,17.3,135440,1,7,Individual,Good,Delhi,3100000
+286,Mahindra,Alturas,2022,Electric,Manual,Sedan,Green,1197,16.5,73612,1,5,Dealer,Excellent,Jaipur,1888000
+287,Hyundai,Tucson,2021,CNG,Automatic,MUV,Green,1197,20.3,107714,1,5,Individual,Excellent,Bangalore,617000
+288,Renault,Kwid,2024,Petrol,Manual,Sedan,Orange,1000,13.9,4881,3,7,Individual,Good,Lucknow,749000
+289,Volkswagen,Touareg,2017,Petrol,Manual,Sedan,Yellow,2755,18.2,69342,1,8,Dealer,Good,Jaipur,876000
+290,Honda,HR-V,2021,Petrol,Manual,Coupe,Orange,2755,24.1,25244,1,5,Certified Pre-Owned,Good,Bangalore,965000
+291,Hyundai,Creta,2022,Diesel,CVT,Coupe,White,2179,19.5,110279,1,5,Certified Pre-Owned,Good,Jaipur,832000
+292,Volkswagen,Passat,2020,Diesel,Automatic,Convertible,Yellow,1248,20.8,125079,2,5,Dealer,Good,Chennai,1077000
+293,Toyota,Urban Cruiser,2015,Diesel,AMT,Coupe,Orange,1461,16.5,53849,2,8,Dealer,Good,Kolkata,438000
+294,Ford,Mustang,2019,Electric,Manual,SUV,Yellow,1197,16.7,53397,1,4,Individual,Poor,Kolkata,1066000
+295,Toyota,Camry,2024,Petrol,Automatic,Convertible,Black,1000,13.9,117072,2,5,Certified Pre-Owned,Excellent,Hyderabad,1776000
+296,Mahindra,BE 6e,2024,Diesel,Automatic,Sedan,Brown,1000,11.2,38096,1,2,Certified Pre-Owned,Excellent,Delhi,1083000
+297,Hyundai,Ioniq 5,2015,Diesel,CVT,MUV,Yellow,2000,18.9,15063,3,5,Certified Pre-Owned,Good,Lucknow,202000
+298,Renault,Captur,2018,Petrol,Automatic,Coupe,Red,1197,11.6,94303,1,5,Certified Pre-Owned,Excellent,Mumbai,342000
+299,Kia,Sportage,2021,Petrol,Manual,Hatchback,Silver,1199,20.9,91251,1,7,Dealer,Good,Jaipur,684000
+300,Kia,EV9,2015,Petrol,Manual,Hatchback,Orange,2755,19.7,30673,2,7,Dealer,Good,Pune,571000
+301,Toyota,Vellfire,2021,Diesel,AMT,SUV,Green,1000,16.9,7169,1,7,Certified Pre-Owned,Good,Lucknow,2737000
+302,Honda,WR-V,2020,Petrol,Manual,Coupe,White,1000,20.0,75311,1,8,Certified Pre-Owned,Fair,Hyderabad,537000
+303,Mahindra,KUV100,2018,Electric,Manual,Convertible,Red,1199,13.6,63453,3,7,Individual,Good,Hyderabad,570000
+304,Ford,Bronco,2017,CNG,Manual,Hatchback,Green,1999,15.7,11079,3,8,Certified Pre-Owned,Excellent,Jaipur,1141000
+305,Ford,Mustang,2022,Petrol,AMT,Coupe,Blue,1498,26.9,33618,1,2,Individual,Excellent,Lucknow,592000
+306,Mahindra,Marazzo,2017,Diesel,Manual,Coupe,Green,1398,16.5,55247,1,5,Individual,Good,Mumbai,1132000
+307,Tata,Sierra,2019,Petrol,Automatic,Coupe,Grey,1398,25.4,55189,1,8,Individual,Excellent,Kolkata,593000
+308,Tata,Avinya,2017,Hybrid,Automatic,Hatchback,Blue,1498,24.5,51396,1,5,Dealer,Good,Kolkata,407000
+309,Volkswagen,Taigun,2023,Diesel,Manual,MUV,Blue,800,13.9,12506,1,5,Individual,Good,Lucknow,1260000
+310,Hyundai,Alcazar,2020,Petrol,Manual,Coupe,Blue,1999,20.4,92036,3,7,Individual,Excellent,Delhi,1070000
+311,Tata,Altroz,2020,Petrol,Automatic,Convertible,Green,2694,13.0,121569,2,5,Dealer,Good,Chennai,996000
+312,Mahindra,Marazzo,2024,Diesel,AMT,Hatchback,Silver,1999,21.6,83067,2,7,Dealer,Excellent,Pune,1037000
+313,Volkswagen,T-Roc,2024,Diesel,Automatic,Sedan,Black,1199,13.0,65967,3,5,Dealer,Excellent,Hyderabad,932000
+314,Hyundai,Alcazar,2023,Petrol,AMT,Coupe,Silver,1248,14.1,22101,2,2,Dealer,Excellent,Bangalore,1758000
+315,Volkswagen,Taigun,2017,Diesel,Manual,Hatchback,Grey,1197,27.5,141710,3,4,Individual,Fair,Ahmedabad,709000
+316,Tata,Avinya,2024,Diesel,Automatic,Coupe,Brown,1598,14.1,81175,3,4,Certified Pre-Owned,Good,Jaipur,520000
+317,Toyota,Yaris,2021,Petrol,Manual,Hatchback,Orange,2393,18.6,140272,1,4,Dealer,Excellent,Ahmedabad,591000
+318,Kia,Carens,2024,Petrol,Manual,SUV,Red,2694,16.8,103481,1,2,Individual,Fair,Kolkata,841000
+319,Kia,EV6,2023,CNG,CVT,Convertible,Blue,1197,12.5,70470,1,5,Individual,Good,Jaipur,671000
+320,Volkswagen,Golf,2022,Petrol,Automatic,Sedan,Grey,1248,14.8,5801,1,5,Dealer,Excellent,Jaipur,1835000
+321,Maruti,Alto,2016,Petrol,Automatic,SUV,Brown,1398,11.4,97359,1,5,Individual,Fair,Ahmedabad,358000
+322,Tata,Nexon,2019,CNG,Manual,MUV,Black,2393,22.9,100028,2,5,Dealer,Fair,Chennai,480000
+323,Volkswagen,Virtus,2015,Petrol,Automatic,Hatchback,Orange,2755,15.8,102006,2,7,Certified Pre-Owned,Poor,Ahmedabad,455000
+324,Maruti,S-Cross,2023,Petrol,Automatic,SUV,Red,1398,10.3,29603,1,2,Individual,Fair,Hyderabad,841000
+325,Ford,Endeavour,2021,CNG,Manual,Hatchback,Yellow,1199,12.8,40630,1,5,Certified Pre-Owned,Good,Lucknow,571000
+326,Ford,Bronco,2015,Petrol,Automatic,Convertible,Orange,2393,26.1,83031,4,8,Dealer,Excellent,Hyderabad,630000
+327,Maruti,Ertiga,2020,Diesel,Manual,Hatchback,Green,1999,13.4,142274,2,7,Certified Pre-Owned,Good,Chennai,405000
+328,Volkswagen,Tiguan,2024,Electric,Automatic,Hatchback,Orange,2393,21.5,141978,1,5,Dealer,Good,Chennai,1486000
+329,Tata,Nexon,2024,Electric,AMT,Sedan,Grey,2393,19.9,101578,1,4,Certified Pre-Owned,Excellent,Jaipur,1540000
+330,Mahindra,Marazzo,2020,Petrol,Automatic,Hatchback,White,1000,10.6,52973,1,7,Dealer,Excellent,Mumbai,1303000
+331,Kia,Stinger,2023,Diesel,Automatic,Hatchback,Grey,2000,18.8,3430,3,7,Dealer,Good,Delhi,1536000
+332,Hyundai,Alcazar,2015,Petrol,Automatic,MUV,Grey,2694,15.5,69681,1,5,Certified Pre-Owned,Excellent,Lucknow,866000
+333,Renault,Triber,2016,Diesel,Automatic,Sedan,Red,2179,11.9,46897,2,2,Certified Pre-Owned,Good,Lucknow,369000
+334,Mahindra,Alturas,2021,Electric,Manual,Sedan,Orange,2755,16.3,139958,4,4,Individual,Good,Bangalore,703000
+335,Mahindra,KUV100,2021,CNG,Manual,Convertible,Grey,1398,27.3,56079,1,7,Certified Pre-Owned,Excellent,Jaipur,1045000
+336,Kia,Seltos,2015,Hybrid,Automatic,Coupe,Black,2393,24.8,56314,3,5,Individual,Excellent,Hyderabad,547000
+337,Toyota,Corolla,2023,Diesel,CVT,Sedan,Silver,1199,14.6,36282,1,7,Dealer,Good,Bangalore,1657000
+338,Ford,Explorer,2024,Electric,Automatic,Convertible,Grey,800,23.2,24999,2,7,Individual,Excellent,Lucknow,2148000
+339,Hyundai,i20,2020,Petrol,AMT,MUV,Silver,800,15.5,2997,2,2,Dealer,Good,Lucknow,448000
+340,Renault,Koleos,2017,Petrol,Automatic,Sedan,White,1199,17.8,116815,2,5,Certified Pre-Owned,Good,Kolkata,426000
+341,Tata,Safari,2020,Petrol,Automatic,Hatchback,Orange,2393,12.4,131549,1,5,Individual,Excellent,Kolkata,879000
+342,Volkswagen,Passat,2024,Petrol,Automatic,Convertible,Orange,1000,22.1,112739,1,5,Dealer,Excellent,Chennai,1470000
+343,Mahindra,Bolero,2020,Petrol,Automatic,SUV,Black,1199,22.3,38225,1,7,Individual,Good,Ahmedabad,621000
+344,Hyundai,Creta,2015,Petrol,Automatic,Sedan,Blue,1398,13.8,79984,1,5,Dealer,Excellent,Delhi,580000
+345,Honda,BR-V,2023,CNG,Automatic,Coupe,Black,1248,13.1,98725,2,5,Certified Pre-Owned,Good,Mumbai,718000
+346,Ford,Mustang,2015,Diesel,CVT,Hatchback,Brown,1199,27.6,28283,1,2,Certified Pre-Owned,Excellent,Pune,722000
+347,Hyundai,Aura,2022,Electric,Automatic,Sedan,Red,1398,18.8,5633,1,7,Certified Pre-Owned,Poor,Jaipur,1545000
+348,Maruti,Brezza,2020,Petrol,Manual,Coupe,Blue,1199,12.7,7724,3,7,Dealer,Good,Kolkata,679000
+349,Tata,Harrier,2021,Diesel,Automatic,Convertible,Red,1498,19.8,111795,4,8,Individual,Excellent,Bangalore,470000
+350,Tata,Avinya,2023,Diesel,Manual,Sedan,Blue,2000,26.8,35455,1,5,Certified Pre-Owned,Good,Jaipur,1767000
+351,Mahindra,XUV700,2023,Diesel,Automatic,Sedan,Grey,1498,23.4,108538,4,7,Dealer,Good,Pune,1411000
+352,Toyota,Glanza,2018,Petrol,Manual,Coupe,Yellow,2000,10.5,60532,2,7,Individual,Good,Lucknow,529000
+353,Volkswagen,Taigun,2023,CNG,Automatic,Convertible,Grey,1199,10.6,124216,1,7,Dealer,Fair,Ahmedabad,1432000
+354,Maruti,Wagon R,2021,Petrol,Automatic,Sedan,Red,2755,14.4,128435,2,4,Dealer,Excellent,Ahmedabad,481000
+355,Maruti,Ignis,2021,Diesel,Manual,Convertible,Yellow,2694,25.8,136485,1,4,Certified Pre-Owned,Good,Mumbai,790000
+356,Honda,BR-V,2023,Petrol,Automatic,Coupe,Brown,2755,15.5,49768,1,2,Certified Pre-Owned,Fair,Mumbai,1281000
+357,Volkswagen,Taigun,2021,Petrol,CVT,Convertible,Orange,1197,24.0,23708,2,5,Dealer,Good,Ahmedabad,1703000
+358,Renault,Kiger,2021,Petrol,Automatic,Sedan,Green,2179,21.7,119192,1,8,Certified Pre-Owned,Fair,Hyderabad,607000
+359,Tata,Harrier,2016,Petrol,Manual,SUV,Silver,800,23.8,41916,1,2,Certified Pre-Owned,Good,Jaipur,788000
+360,Ford,Figo,2017,Electric,Manual,Convertible,White,2755,12.4,75702,2,5,Individual,Excellent,Ahmedabad,569000
+361,Ford,Mustang,2015,Diesel,AMT,Coupe,White,1498,17.4,56852,2,4,Certified Pre-Owned,Fair,Hyderabad,240000
+362,Ford,EcoSport,2018,Electric,Manual,Convertible,Orange,1197,25.4,14434,2,5,Dealer,Excellent,Bangalore,1398000
+363,Ford,Mustang,2020,Electric,Manual,MUV,Black,2179,20.4,147371,1,4,Dealer,Good,Lucknow,2002000
+364,Hyundai,Venue,2020,Petrol,Manual,Hatchback,Brown,1398,19.5,35270,1,7,Certified Pre-Owned,Excellent,Ahmedabad,1165000
+365,Honda,Mobilio,2015,Petrol,Automatic,Convertible,Orange,1248,19.5,75284,1,8,Dealer,Good,Lucknow,614000
+366,Mahindra,Thar,2024,Diesel,Automatic,Convertible,Green,800,12.1,61006,2,7,Individual,Fair,Lucknow,1211000
+367,Hyundai,Tucson,2024,Hybrid,Manual,SUV,Grey,1248,24.2,2961,2,7,Certified Pre-Owned,Fair,Hyderabad,1076000
+368,Renault,Fluence,2020,CNG,Manual,SUV,Grey,1398,25.0,7632,3,7,Individual,Good,Lucknow,636000
+369,Volkswagen,Touareg,2015,Diesel,Automatic,Convertible,Green,2694,19.4,108515,3,5,Certified Pre-Owned,Fair,Ahmedabad,478000
+370,Mahindra,BE 6e,2023,Petrol,Automatic,SUV,Grey,2000,19.6,8171,1,2,Dealer,Poor,Chennai,659000
+371,Ford,Explorer,2017,Diesel,AMT,SUV,Grey,1398,18.1,22753,1,7,Certified Pre-Owned,Excellent,Kolkata,1583000
+372,Honda,BR-V,2019,Petrol,Manual,Hatchback,Red,1199,16.1,126527,3,5,Dealer,Good,Mumbai,594000
+373,Renault,Captur,2020,Petrol,CVT,Coupe,Black,800,15.6,101603,2,5,Dealer,Good,Ahmedabad,259000
+374,Ford,Endeavour,2020,Diesel,Manual,Coupe,Blue,1248,15.0,55009,1,7,Dealer,Good,Chennai,976000
+375,Volkswagen,Vento,2019,Petrol,Manual,Hatchback,Yellow,1248,12.5,142220,1,8,Certified Pre-Owned,Good,Hyderabad,1130000
+376,Toyota,Land Cruiser,2018,Petrol,Manual,SUV,Orange,1000,16.9,123400,3,5,Individual,Excellent,Mumbai,488000
+377,Kia,Carnival,2024,Electric,Automatic,Convertible,Green,2755,23.6,51943,2,5,Certified Pre-Owned,Good,Pune,1309000
+378,Tata,Harrier,2022,Petrol,Manual,Convertible,Green,2755,16.5,37675,3,7,Individual,Excellent,Hyderabad,572000
+379,Mahindra,KUV100,2022,Diesel,Manual,Hatchback,Grey,1598,11.9,73992,2,5,Individual,Good,Bangalore,1657000
+380,Hyundai,Aura,2023,Diesel,AMT,Coupe,Green,1461,11.2,63882,1,4,Individual,Good,Hyderabad,910000
+381,Ford,Explorer,2021,Diesel,Manual,Convertible,Red,1398,20.0,127567,1,4,Dealer,Good,Delhi,1862000
+382,Tata,Altroz,2021,Petrol,Manual,Coupe,Brown,2755,20.5,23732,1,5,Individual,Good,Mumbai,1259000
+383,Maruti,Dzire,2017,Diesel,Manual,Coupe,Yellow,2755,27.0,78573,2,7,Individual,Excellent,Pune,356000
+384,Mahindra,XUV700,2024,Petrol,DCT,MUV,Black,1000,25.5,13927,1,8,Individual,Excellent,Jaipur,2324000
+385,Honda,HR-V,2024,Petrol,Manual,MUV,Brown,1598,16.9,45458,1,7,Individual,Good,Hyderabad,1639000
+386,Kia,Carnival,2019,Hybrid,Automatic,Sedan,White,1000,12.5,127585,2,5,Dealer,Good,Bangalore,1003000
+387,Volkswagen,Golf,2021,Diesel,Automatic,MUV,Orange,1999,19.0,48704,1,5,Individual,Good,Hyderabad,1633000
+388,Renault,Captur,2021,Electric,Automatic,Hatchback,White,1197,23.1,29665,2,5,Certified Pre-Owned,Good,Pune,666000
+389,Toyota,Vellfire,2023,Petrol,CVT,Hatchback,Red,1999,10.9,141347,2,7,Individual,Good,Delhi,1395000
+390,Maruti,Ciaz,2022,Diesel,Automatic,Convertible,Grey,2179,24.1,75814,1,7,Individual,Good,Chennai,508000
+391,Volkswagen,Golf,2017,Diesel,Automatic,SUV,Yellow,1248,12.4,33245,1,7,Dealer,Excellent,Delhi,734000
+392,Toyota,Innova,2016,Diesel,CVT,Convertible,Black,1498,13.3,68485,2,7,Certified Pre-Owned,Good,Bangalore,985000
+393,Maruti,Brezza,2016,Hybrid,Automatic,Sedan,Green,1199,20.4,115391,2,5,Individual,Fair,Hyderabad,381000
+394,Maruti,Wagon R,2016,Petrol,Automatic,MUV,Blue,1498,14.7,61252,1,2,Individual,Good,Jaipur,340000
+395,Kia,Seltos,2019,Electric,Manual,Convertible,Grey,2694,17.8,25523,3,8,Certified Pre-Owned,Good,Mumbai,1172000
+396,Toyota,Yaris,2019,Petrol,Manual,Convertible,Yellow,1398,19.9,51098,1,5,Individual,Good,Hyderabad,1821000
+397,Hyundai,i20,2021,Petrol,Manual,MUV,Grey,800,26.9,50614,1,5,Dealer,Good,Chennai,1386000
+398,Honda,Mobilio,2016,Diesel,Manual,Coupe,Black,1248,15.3,48435,3,5,Individual,Good,Lucknow,533000
+399,Hyundai,Alcazar,2019,CNG,Automatic,Convertible,Grey,1461,16.0,72689,2,2,Individual,Excellent,Delhi,383000
+400,Toyota,Glanza,2022,Petrol,DCT,Sedan,Yellow,1199,21.1,28424,1,2,Individual,Excellent,Ahmedabad,1000000
+401,Volkswagen,Tiguan,2016,Petrol,Manual,Convertible,Blue,2755,10.7,39021,2,5,Individual,Excellent,Ahmedabad,623000
+402,Tata,Punch,2021,Diesel,Automatic,MUV,Green,2179,24.7,141591,1,2,Individual,Good,Delhi,871000
+403,Ford,Escape,2020,Petrol,Manual,Hatchback,Silver,2000,13.7,21091,3,7,Individual,Good,Pune,1157000
+404,Kia,EV6,2019,Diesel,CVT,Convertible,Grey,800,23.0,49666,1,7,Individual,Excellent,Ahmedabad,1002000
+405,Volkswagen,Passat,2016,CNG,Automatic,MUV,Orange,2393,23.0,9710,1,8,Individual,Poor,Mumbai,484000
+406,Honda,BR-V,2022,Hybrid,CVT,Coupe,Black,2000,10.3,9667,2,4,Certified Pre-Owned,Good,Delhi,1463000
+407,Ford,EcoSport,2018,Diesel,Manual,Sedan,White,2694,24.7,119586,2,5,Individual,Fair,Delhi,388000
+408,Ford,Puma,2018,Petrol,Manual,SUV,Brown,2393,10.8,143100,1,7,Individual,Excellent,Lucknow,530000
+409,Hyundai,Creta,2019,Petrol,Manual,Convertible,Grey,2393,12.8,10668,1,2,Certified Pre-Owned,Excellent,Hyderabad,1534000
+410,Hyundai,i20,2015,Petrol,Manual,Convertible,Yellow,1598,18.1,33264,1,7,Individual,Good,Ahmedabad,377000
+411,Tata,Avinya,2015,Diesel,Automatic,Coupe,Silver,1199,12.1,91187,1,7,Certified Pre-Owned,Fair,Chennai,412000
+412,Hyundai,Ioniq 5,2020,Electric,DCT,Coupe,Red,2393,12.7,72463,1,5,Individual,Fair,Hyderabad,1523000
+413,Volkswagen,Touareg,2017,Petrol,CVT,Hatchback,Grey,800,11.9,87633,2,4,Individual,Excellent,Chennai,442000
+414,Renault,Kiger,2017,CNG,Automatic,Hatchback,Silver,1199,24.0,85451,1,8,Dealer,Good,Lucknow,284000
+415,Hyundai,Tucson,2021,Electric,Manual,Sedan,Silver,1197,17.0,114259,1,4,Individual,Good,Mumbai,691000
+416,Honda,CR-V,2019,Petrol,Manual,Convertible,Yellow,2393,16.2,122037,1,5,Dealer,Excellent,Delhi,1004000
+417,Ford,Figo,2024,Electric,Automatic,Coupe,Red,1999,18.5,128244,3,7,Dealer,Good,Jaipur,1458000
+418,Maruti,Ertiga,2018,Petrol,Manual,Sedan,Yellow,1498,23.2,109516,4,5,Dealer,Fair,Mumbai,280000
+419,Kia,Niro,2021,Diesel,AMT,Hatchback,Green,1199,12.4,3256,2,2,Individual,Excellent,Jaipur,866000
+420,Hyundai,i20,2022,Diesel,Manual,MUV,Yellow,1197,24.2,121572,2,2,Certified Pre-Owned,Good,Ahmedabad,951000
+421,Volkswagen,Polo,2016,Petrol,Automatic,Coupe,White,2393,22.3,142196,2,7,Individual,Good,Chennai,657000
+422,Mahindra,Scorpio,2023,Hybrid,Automatic,Hatchback,Silver,2000,20.1,10714,1,5,Individual,Good,Lucknow,736000
+423,Honda,Jazz,2020,Petrol,Manual,MUV,Yellow,1598,22.2,84007,1,7,Certified Pre-Owned,Excellent,Hyderabad,696000
+424,Hyundai,Aura,2020,Diesel,Automatic,Hatchback,Green,2393,22.1,76615,1,8,Certified Pre-Owned,Good,Jaipur,1338000
+425,Hyundai,Tucson,2022,Petrol,Manual,Sedan,Blue,1197,25.7,29366,2,4,Dealer,Excellent,Chennai,1282000
+426,Maruti,Wagon R,2021,Hybrid,Automatic,Sedan,Green,2694,24.4,76419,1,5,Individual,Good,Mumbai,857000
+427,Renault,Zoe,2021,Diesel,Automatic,SUV,Green,1999,12.4,143777,1,7,Certified Pre-Owned,Good,Jaipur,733000
+428,Tata,Altroz,2018,Diesel,DCT,Hatchback,Black,1197,27.5,42150,2,7,Individual,Excellent,Bangalore,991000
+429,Tata,Safari,2018,Petrol,DCT,Coupe,Black,2000,15.7,53780,2,5,Individual,Excellent,Bangalore,539000
+430,Mahindra,Alturas,2023,Hybrid,Automatic,Hatchback,White,800,27.5,120072,3,5,Individual,Poor,Bangalore,977000
+431,Renault,Zoe,2019,Diesel,Manual,Coupe,Black,2755,10.7,88784,2,4,Certified Pre-Owned,Good,Ahmedabad,539000
+432,Hyundai,Venue,2015,Petrol,AMT,MUV,Grey,2393,26.8,51157,2,7,Dealer,Excellent,Lucknow,383000
+433,Maruti,Baleno,2023,CNG,Automatic,Hatchback,Orange,1461,12.7,134101,3,8,Individual,Excellent,Pune,716000
+434,Mahindra,Marazzo,2020,Petrol,Manual,SUV,Green,1197,24.5,108949,2,7,Certified Pre-Owned,Excellent,Ahmedabad,1514000
+435,Kia,Telluride,2017,CNG,Automatic,Sedan,Red,1000,10.1,87927,1,2,Individual,Good,Jaipur,655000
+436,Toyota,Hilux,2017,Diesel,Automatic,Sedan,Red,2694,20.5,145192,1,7,Dealer,Fair,Chennai,981000
+437,Volkswagen,Virtus,2015,CNG,Manual,SUV,Green,800,12.1,109355,1,7,Dealer,Good,Chennai,407000
+438,Hyundai,Ioniq 5,2020,Diesel,Automatic,SUV,Green,2694,14.7,134355,2,5,Certified Pre-Owned,Fair,Pune,924000
+439,Tata,Punch,2022,Electric,Manual,Sedan,White,1598,13.5,12770,1,5,Individual,Good,Pune,1408000
+440,Hyundai,Ioniq 5,2017,Diesel,CVT,Convertible,Blue,2694,12.6,25122,1,8,Individual,Good,Pune,449000
+441,Toyota,Yaris,2022,Petrol,CVT,Sedan,Silver,1461,18.3,49392,2,5,Dealer,Excellent,Hyderabad,825000
+442,Tata,Nexon,2022,Petrol,Automatic,Sedan,Green,2179,24.7,45143,2,5,Certified Pre-Owned,Good,Pune,630000
+443,Tata,Tiago,2019,Petrol,Manual,Hatchback,Brown,2393,17.8,20377,1,4,Certified Pre-Owned,Fair,Delhi,455000
+444,Maruti,S-Cross,2024,Petrol,Manual,SUV,White,1999,26.2,25297,2,7,Dealer,Excellent,Mumbai,516000
+445,Mahindra,Scorpio,2016,Petrol,Automatic,SUV,Yellow,1000,24.8,63392,1,5,Individual,Good,Jaipur,845000
+446,Renault,Duster,2018,Hybrid,Manual,Coupe,White,1398,22.6,132171,3,4,Certified Pre-Owned,Excellent,Hyderabad,271000
+447,Hyundai,Verna,2020,Hybrid,Manual,Coupe,Red,1498,23.7,32405,1,5,Individual,Excellent,Pune,1560000
+448,Renault,Kwid,2016,Petrol,Manual,SUV,Green,2694,17.7,59211,2,7,Certified Pre-Owned,Good,Ahmedabad,413000
+449,Volkswagen,T-Roc,2017,Petrol,Automatic,Convertible,Silver,2179,20.6,31252,1,2,Individual,Good,Delhi,525000
+450,Tata,Harrier,2020,Hybrid,Manual,Coupe,Brown,2393,24.2,130838,1,7,Dealer,Excellent,Kolkata,1059000
+451,Kia,Sportage,2022,Diesel,DCT,MUV,Orange,1498,14.2,28321,1,4,Individual,Excellent,Ahmedabad,1774000
+452,Maruti,Baleno,2015,CNG,Automatic,Hatchback,Black,2393,11.4,40038,1,5,Individual,Good,Pune,327000
+453,Volkswagen,Touareg,2018,Petrol,Automatic,Coupe,Blue,1461,25.8,143293,1,5,Certified Pre-Owned,Excellent,Jaipur,569000
+454,Volkswagen,T-Roc,2021,Petrol,Manual,Sedan,Orange,1248,22.9,43029,1,5,Certified Pre-Owned,Fair,Chennai,1143000
+455,Hyundai,Ioniq 5,2022,Diesel,Automatic,Coupe,Green,1498,20.6,132824,1,7,Individual,Good,Bangalore,1032000
+456,Mahindra,XUV300,2020,Petrol,Automatic,Sedan,Grey,1461,11.8,7051,2,8,Individual,Fair,Lucknow,743000
+457,Mahindra,Marazzo,2020,Petrol,Manual,Sedan,Blue,800,19.7,79930,1,5,Certified Pre-Owned,Excellent,Delhi,467000
+458,Kia,EV9,2023,Electric,Manual,Convertible,Green,1999,11.8,99021,2,8,Certified Pre-Owned,Excellent,Pune,1243000
+459,Honda,CR-V,2022,Diesel,AMT,SUV,Black,2694,25.3,52889,1,5,Certified Pre-Owned,Excellent,Kolkata,840000
+460,Toyota,Innova,2019,Hybrid,Manual,Sedan,Yellow,1000,20.2,24833,2,7,Certified Pre-Owned,Poor,Lucknow,1251000
+461,Kia,EV6,2020,CNG,Automatic,SUV,Orange,1248,21.2,82143,1,2,Individual,Good,Jaipur,784000
+462,Renault,Kiger,2015,Diesel,Automatic,Sedan,Yellow,2755,20.2,70237,3,2,Individual,Excellent,Ahmedabad,291000
+463,Renault,Duster,2020,Diesel,Manual,Convertible,Blue,2694,15.2,53361,3,7,Individual,Good,Delhi,321000
+464,Ford,Aspire,2021,Petrol,Manual,Hatchback,Red,1199,12.9,114329,1,5,Individual,Good,Jaipur,649000
+465,Toyota,Camry,2023,Petrol,AMT,Convertible,Green,2755,27.2,82288,2,5,Dealer,Excellent,Delhi,3025000
+466,Hyundai,i10,2017,Petrol,Automatic,Coupe,Silver,1199,20.8,137693,1,5,Certified Pre-Owned,Good,Lucknow,910000
+467,Mahindra,KUV100,2024,Diesel,AMT,Convertible,Red,1498,17.4,45915,1,7,Individual,Excellent,Delhi,2356000
+468,Maruti,Ciaz,2023,Petrol,CVT,SUV,Orange,1398,18.6,72806,3,5,Individual,Good,Hyderabad,509000
+469,Toyota,Innova,2024,Petrol,Automatic,Hatchback,Red,1598,25.6,95120,3,5,Individual,Good,Chennai,2726000
+470,Kia,Seltos,2021,Electric,CVT,SUV,Silver,2393,10.6,115040,2,2,Dealer,Excellent,Bangalore,1418000
+471,Volkswagen,Touareg,2021,Electric,Manual,MUV,Silver,1498,22.5,17397,1,8,Dealer,Good,Jaipur,1892000
+472,Tata,Curvv,2017,Petrol,Manual,SUV,Grey,2694,20.7,65432,1,5,Certified Pre-Owned,Excellent,Bangalore,558000
+473,Mahindra,Alturas,2022,Electric,Manual,Sedan,Yellow,1461,25.8,22124,1,5,Individual,Fair,Hyderabad,2085000
+474,Ford,Aspire,2015,Hybrid,CVT,Convertible,Yellow,800,17.2,121221,1,5,Certified Pre-Owned,Excellent,Delhi,612000
+475,Toyota,Glanza,2016,Hybrid,Manual,Coupe,Silver,1000,14.0,118936,2,4,Dealer,Good,Kolkata,569000
+476,Toyota,Camry,2022,Petrol,Manual,Sedan,Yellow,2393,12.6,49640,1,2,Dealer,Poor,Chennai,1102000
+477,Toyota,Urban Cruiser,2024,Diesel,Manual,Coupe,Green,2000,13.8,84736,4,2,Dealer,Excellent,Bangalore,1534000
+478,Kia,EV9,2019,Petrol,Automatic,Hatchback,Grey,1248,27.6,11930,1,2,Dealer,Good,Pune,1010000
+479,Tata,Sierra,2015,Diesel,Manual,Coupe,Green,1197,14.7,23500,1,2,Individual,Fair,Bangalore,331000
+480,Tata,Curvv,2019,Diesel,CVT,SUV,Blue,1398,23.3,135521,1,5,Certified Pre-Owned,Fair,Chennai,657000
+481,Tata,Sierra,2022,Petrol,Manual,Sedan,Black,800,17.9,122456,1,4,Dealer,Good,Bangalore,1497000
+482,Renault,Logan,2022,Diesel,AMT,Sedan,Silver,1999,26.0,47357,3,7,Individual,Excellent,Chennai,667000
+483,Ford,EcoSport,2023,CNG,Manual,Hatchback,Red,1461,16.7,6805,1,5,Individual,Good,Pune,2405000
+484,Hyundai,Aura,2017,Petrol,Automatic,Convertible,Green,2000,21.2,1521,1,5,Individual,Good,Chennai,744000
+485,Ford,Figo,2018,Electric,AMT,SUV,Grey,1197,14.3,99979,1,7,Dealer,Good,Jaipur,1471000
+486,Kia,Sonet,2015,Electric,Manual,MUV,Blue,2179,24.5,31615,1,2,Certified Pre-Owned,Fair,Bangalore,409000
+487,Ford,Figo,2020,Diesel,AMT,Coupe,Red,1000,23.6,124895,1,2,Individual,Good,Kolkata,1685000
+488,Ford,Figo,2021,Diesel,Manual,Coupe,Grey,1248,18.4,129845,1,5,Individual,Good,Bangalore,570000
+489,Volkswagen,Tiguan,2017,Hybrid,Automatic,SUV,Red,1598,11.9,12511,2,5,Certified Pre-Owned,Good,Lucknow,805000
+490,Hyundai,Alcazar,2024,CNG,Manual,Coupe,Silver,800,11.5,47068,2,2,Certified Pre-Owned,Excellent,Ahmedabad,1919000
+491,Toyota,Yaris,2024,Diesel,AMT,MUV,Yellow,2694,22.1,55330,1,7,Individual,Excellent,Bangalore,2279000
+492,Maruti,Swift,2021,Petrol,Manual,MUV,Green,2179,22.1,127591,1,8,Certified Pre-Owned,Good,Lucknow,656000
+493,Kia,Carens,2016,Petrol,Manual,Hatchback,White,2000,14.4,54848,1,5,Certified Pre-Owned,Poor,Mumbai,582000
+494,Renault,Duster,2016,Petrol,Automatic,MUV,Brown,800,25.5,116723,4,4,Dealer,Excellent,Bangalore,266000
+495,Honda,Elevate,2024,CNG,Manual,SUV,White,800,18.8,108969,3,7,Dealer,Good,Kolkata,860000
+496,Ford,Puma,2022,Petrol,Manual,Hatchback,Brown,2755,18.5,70214,3,2,Certified Pre-Owned,Excellent,Delhi,1276000
+497,Mahindra,Alturas,2021,Petrol,Manual,Sedan,Green,2755,20.8,57593,2,8,Individual,Good,Jaipur,1507000
+498,Volkswagen,Taigun,2019,Diesel,Manual,MUV,Grey,2000,18.7,54318,1,5,Individual,Fair,Bangalore,684000
+499,Tata,Avinya,2022,Petrol,Manual,MUV,Blue,1398,22.2,4752,1,7,Dealer,Excellent,Mumbai,685000
+500,Renault,Kwid,2016,Petrol,Manual,Sedan,Silver,2393,25.8,89213,2,5,Certified Pre-Owned,Excellent,Chennai,238000
