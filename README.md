@@ -90,13 +90,13 @@ A complete **Car Price Analysis** project using Python.
 |------|-------------|
 | `car_prices.csv` | Dataset (500 cars, 17 features) |
 | `car_analysis.py` | Complete analysis script |
-| `01_overview_dashboard.png` | Chart 1 |
-| `02_price_analysis.png` | Chart 2 |
-| `03_depreciation_analysis.png` | Chart 3 |
-| `04_brand_model_analysis.png` | Chart 4 |
-| `05_city_seller_analysis.png` | Chart 5 |
-| `06_owners_mileage_analysis.png` | Chart 6 |
-| `07_correlation_heatmap.png` | Chart 7 |
+| `01_overview_dashboard.png` | Overview chart |
+| `02_price_analysis.png` | Price boxplots |
+| `03_depreciation_analysis.png` | Depreciation curve |
+| `04_brand_model_analysis.png` | Brand analysis |
+| `05_city_seller_analysis.png` | City & seller |
+| `06_owners_mileage_analysis.png` | Owners & mileage |
+| `07_correlation_heatmap.png` | Heatmap |
 | `requirements.txt` | Dependencies |
 | `README.md` | Documentation |
 
@@ -116,6 +116,21 @@ A complete **Car Price Analysis** project using Python.
 
 ---
 
+## 📅 Daily Development Log
+
+| Day | Update |
+|-----|--------|
+| Day 1 | ✅ Created repo and README |
+| Day 2 | ✅ Uploaded car_prices.csv (500 rows) |
+| Day 3 | ✅ Uploaded car_analysis.py |
+| Day 4 | ✅ Added requirements.txt |
+| Day 5 | ✅ Uploaded Chart 1 and Chart 2 |
+| Day 6 | ✅ Uploaded Chart 3 and Chart 4 |
+| Day 7 | ✅ Uploaded Chart 5 and Chart 6 |
+| Day 8 | ✅ Uploaded Chart 7 — Correlation Heatmap |
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Python 3.10+** — Core language
@@ -125,16 +140,3 @@ A complete **Car Price Analysis** project using Python.
 - **NumPy** — Numerical computing
 
 ---
-
-## 📅 Daily Development Log
-
-| Day | Update |
-|-----|--------|
-| Day 1 | ✅ Created repo and README |
-| Day 2 | ✅ Uploaded car_prices.csv (500 rows, 17 features) |
-| Day 3 | ✅ Uploaded car_analysis.py |
-| Day 4 | ✅ Added requirements.txt |
-| Day 5 | ✅ Uploaded Chart 1 and Chart 2 |
-| Day 6 | ✅ Uploaded Chart 3 and Chart 4 |
-| Day 7 | ✅ Uploaded Chart 5 and Chart 6 |
-| Day 8 | ✅ Uploaded Chart 7 — Correlation Heatmap |
